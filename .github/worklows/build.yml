@@ -41,3 +41,4 @@ jobs:
       with:
         name: IGU17Debugger-Setup
         path: installer/IGU17Debugger_Setup.exe
+
